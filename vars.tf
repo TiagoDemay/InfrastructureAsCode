@@ -5,7 +5,7 @@ variable "image" {
   description   = "The AWS AMI to create things in."
   default = {
     "us-east-1" = "ami-026c8acd92718196b"
-    "us-eats-2" = "ami-0d8f6eb4f641ef691"
+    "us-east-2" = "ami-0d8f6eb4f641ef691"
   }
 }
 
